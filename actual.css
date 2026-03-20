@@ -1,4 +1,10 @@
+@font-face {
+  font-family: "Bitcount Grid Double Ink";
+  src: url(./bitcount-frid-double-font.ttf);
+}
+
 :root {
+  --font-family: "Bitcount Grid Double Ink", system-ui;
   --color-pageBackground: #f5f1e8;
   --color-pageBackgroundModalActive: #ede8dc;
   --color-pageBackgroundTopLeft: #f5f1e8;
